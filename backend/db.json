@@ -1,0 +1,49 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "name": "Caneta Bic Preta",
+      "price": 5.89
+    },
+    {
+      "id": 3,
+      "name": "Caneta Bic Azul",
+      "price": 5.89
+    },
+    {
+      "id": 4,
+      "name": "Notebook Mac Pro",
+      "price": 12999.99
+    },
+    {
+      "id": 5,
+      "name": "Samsung S20",
+      "price": 6000 
+    },
+    {
+      "name": "Perfume Masc 100ml",
+      "price": 130.99,
+      "id": 6
+    },
+    {
+      "name": "Bicicleta 21V Caloi",
+      "price": "1249.90",
+      "id": 7
+    },
+    {
+      "name": "Tenis Adidas",
+      "price": "300.00",
+      "id": 8
+    },
+    {
+      "name": "Caneta Bic Verde",
+      "price": "5.89",
+      "id": 9
+    },
+    {
+      "name": "Lapiseira 0.5",
+      "price": "9.99",
+      "id": 10
+    }
+  ]
+}
